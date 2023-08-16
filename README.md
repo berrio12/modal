@@ -15,15 +15,8 @@
 - Crear base de datos (cinema) e importar archivo ```cinema.sql```
 - Cambiar los datos de acceso en ```config/database.php```
 
-## Autores ✒️
-- **Marco Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
+## Autor✒️
+- **stiven berrio** - *Desarrollo* 
 
-## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [license](license) para más detalles.
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.) 
-* Da las gracias públicamente 🤓.
